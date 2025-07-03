@@ -17,7 +17,7 @@ function fetchAndRenderProjects() {
               {
                 "title": "Zeus Boss Fight",
                 "description": "A Zeus boss fight where you have to dodge lightning bolts, kill its minions, and then try to kill Zeus without dying.",
-                "video": "assets/videos/zeus_boss_fight.mp4"
+                "video": "https://pouch.jumpshare.com/preview/GP40RBJYLXt7AkfcDLDkZnblkLZp2hzPOhs2N_datv5V0tL2Rrsffq6AfBsvtLyfEC1WOh5ZBO-l6cPfV4VJvpDuaJpU2j8OtxoM1DE0BewtZFHJ7uMOmAcV9q_A6HDy9DBHPH1SkmKZefAtn2QbjW6yjbN-I2pg_cnoHs_AmgI.mp4"
               },
               {
                 "title": "Warden Squid Fight",
