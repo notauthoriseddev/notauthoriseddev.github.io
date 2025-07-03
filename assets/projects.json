@@ -1,0 +1,57 @@
+[
+  {
+    "category": "Boss Fights",
+    "projects": [
+      {
+        "title": "Portfolio Website",
+        "description": "A personal portfolio website to showcase my work.",
+        "video": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+      },
+      {
+        "title": "Portfolio Website",
+        "description": "A personal portfolio website to showcase my work.",
+        "video": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+      },
+      {
+        "title": "Portfolio Website",
+        "description": "A personal portfolio website to showcase my work.",
+        "video": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+      },
+      {
+        "title": "Portfolio Website",
+        "description": "A personal portfolio website to showcase my work.",
+        "video": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+      },
+      {
+        "title": "Portfolio Website",
+        "description": "A personal portfolio website to showcase my work.",
+        "video": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+      },
+      {
+        "title": "Task Manager",
+        "description": "A simple and clean task management app.",
+        "video": ""
+      }
+    ]
+  },
+  {
+    "category": "Open Source",
+    "projects": [
+      {
+        "title": "OpenLib",
+        "description": "A library for open source contributions.",
+        "video": ""
+      }
+    ]
+  },
+  {
+    "category": "Games",
+    "projects": [
+      {
+        "title": "Pixel Runner",
+        "description": "A fun endless runner game.",
+        "video": ""
+      }
+    ]
+  }
+]
